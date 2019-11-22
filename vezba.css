@@ -1,0 +1,51 @@
+img{
+	border-radius: 15px;
+}h1{
+	font-size:30px;
+	color:white;background-color:black;
+}
+.ikona
+  {
+	margin-bottom:10px;
+	border-radius:30px;
+}
+.div1
+   {margin-top:1px;
+
+	
+}
+p{
+	color:white;
+}
+body{
+	background-color:purple;
+	
+}
+h2{
+	color:white;
+	font-size: 20px;
+}
+.button{
+	font-size: 45px;
+	cursor: none;
+	color: purple;
+	background-color: white;
+	border: none;
+	border-radius: 20px;
+	box-shadow: 0 20px gold;
+	
+}
+.button:hover{
+	background-color: red;
+	
+}
+.button:active{
+	background-color: gold;
+	box-shadow: 0 20px black;
+	transform: translateY(8px);
+	
+
+
+	
+	
+    
